@@ -30,10 +30,10 @@
                         <artifactId>jib-maven-plugin</artifactId>
                         <configuration>
                             <to>
-                                <image>registry.hub.docker.com/lotechconsulting/customer</image>
+                                <image>registry.hub.docker.com/xxxxxx/apigw</image>
                                 <auth>
-                                    <username>lotechconsulting</username>
-                                    <password>D0cker.%%</password>
+                                    <username>xxxxx</username>
+                                    <password>xxxxx</password>
                                 </auth>
                             </to>
                         </configuration>
