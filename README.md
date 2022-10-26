@@ -41,3 +41,9 @@ host: postgres
 username: amigoscode
 password: password
 
+# docker-compose.yaml
+
+add your image path 
+
+ex: on docker compose yaml file this line should be changed to fit your docker hub name.
+    image: yourImageNameHere/eureka-server:latest
