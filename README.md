@@ -36,10 +36,15 @@ docker compose ps
 
 postgres login : admin
 
-create a db amigoscode with the follwing params:
+add a server amigoscode with the follwing params:
 host: postgres
 username: amigoscode
 password: password
+
+Create the following DB
+customer
+fraud
+notification
 
 # docker-compose.yaml
 
