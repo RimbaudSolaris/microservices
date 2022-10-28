@@ -30,9 +30,12 @@ http://localhost:5050/browser/
 
 mvn clean package -P build-docker-image
 
-docker compose pull
-docker compose up -d
-docker compose ps
+docker compose pull --> pull image locally
+docker compose up -d --> run all image on docker (-d detach mode)
+docker compose ps --> list all image running on docker
+
+
+POSTGRES DB config
 
 postgres login : admin
 
